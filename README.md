@@ -16,33 +16,65 @@ Building scalable SaaS products, backend systems & modern web applications.
 
 ### 🚀 Languages and Tools
 
+
+<h3 align="left">Languages and Tools:</h3>
+
 <p align="left">
-<img src="https://skillicons.dev/icons?i=js,ts,python,react,nextjs,nodejs,express,nestjs,mongodb,postgres,redis,docker,git,github,linux,tailwind,prisma,gcp&perline=9" />
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+<img src="https://skillicons.dev/icons?i=js" width="45" height="45" alt="JavaScript"/>
+</a>
+<a href="https://www.typescriptlang.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=ts" width="45" height="45" alt="TypeScript"/>
+</a>
+<a href="https://www.python.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=python" width="45" height="45" alt="Python"/>
+</a>
+<a href="https://react.dev/" target="_blank">
+<img src="https://skillicons.dev/icons?i=react" width="45" height="45" alt="React"/>
+</a>
+<a href="https://nextjs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nextjs" width="45" height="45" alt="Next.js"/>
+</a>
+<a href="https://nodejs.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nodejs" width="45" height="45" alt="Node.js"/>
+</a>
+<a href="https://expressjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=express" width="45" height="45" alt="Express"/>
+</a>
+<a href="https://nestjs.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=nestjs" width="45" height="45" alt="NestJS"/>
+</a>
+<a href="https://www.mongodb.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=mongodb" width="45" height="45" alt="MongoDB"/>
+</a>
+<a href="https://www.postgresql.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=postgres" width="45" height="45" alt="PostgreSQL"/>
+</a>
+<a href="https://redis.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=redis" width="45" height="45" alt="Redis"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=docker" width="45" height="45" alt="Docker"/>
+</a>
+<a href="https://git-scm.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=git" width="45" height="45" alt="Git"/>
+</a>
+<a href="https://github.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" width="45" height="45" alt="GitHub"/>
+</a>
+<a href="https://www.linux.org/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linux" width="45" height="45" alt="Linux"/>
+</a>
+<a href="https://tailwindcss.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=tailwind" width="45" height="45" alt="Tailwind CSS"/>
+</a>
+<a href="https://www.prisma.io/" target="_blank">
+<img src="https://skillicons.dev/icons?i=prisma" width="45" height="45" alt="Prisma"/>
+</a>
+<a href="https://cloud.google.com/" target="_blank">
+<img src="https://skillicons.dev/icons?i=gcp" width="45" height="45" alt="Google Cloud"/>
+</a>
 </p>
-
----
-
-### 👨‍💻 About Me
-
-- 🔭 Working on scalable SaaS applications.
-- 🌱 Learning Python, AI Engineering and System Design.
-- 💡 Interested in Backend Engineering and distributed systems.
-- 🚀 Building products like RestaurantOS and DreamOut.
-- 📍 Based in Kerala, India.
-
----
-
-### 📌 Featured Projects
-
-| Project | Description |
-|---|---|
-| RestaurantOS | Restaurant management SaaS |
-| DreamOut | Social travel discovery platform |
-| WorkEasy | Multi-tenant company management system |
-| FMD | Facility Management System |
-
----
-
 ### 📊 GitHub Statistics
 
 <div align="center">
